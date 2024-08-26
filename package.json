@@ -1,0 +1,15 @@
+{
+  "name": "hashmap-top",
+  "version": "1.0.0",
+  "description": "a project from the odin project regarding hashmap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
